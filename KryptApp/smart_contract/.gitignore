@@ -1,0 +1,14 @@
+node_modules
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
+
+# Environment Variables
+.env
+.env.local
+.env.production
